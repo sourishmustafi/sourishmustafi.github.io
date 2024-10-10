@@ -1,23 +1,23 @@
 ---
 layout: default
-title: Public Goods
+title: Extras
 ---
 
-# Public Goods: Selected GitHub Repositories
+# Extras : Selected GitHub Repositories
 
 Here are some of the projects I’ve worked on that I’d like to showcase. Feel free to explore and contribute!
 
 <div class="repositories">
     <div class="repository-card">
         <a href="https://github.com/username/repository1" target="_blank">
-            <h3>Repository 1: Title of the Project</h3>
+            <h3>Repository 1: Music</h3>
             <p>A brief description of what this project entails and the technologies used.</p>
         </a>
     </div>
 
     <div class="repository-card">
         <a href="https://github.com/username/repository2" target="_blank">
-            <h3>Repository 2: Title of the Project</h3>
+            <h3>Repository 2: Art</h3>
             <p>A short description highlighting the focus of this project and the technologies involved.</p>
         </a>
     </div>

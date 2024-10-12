@@ -13,13 +13,9 @@ title: Teaching
   <span style="font-style: italic;">Instructor: [Dr. Punarjit Roychowdhury](https://punarjitroyc.weebly.com/)</span> 
 
 
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
-</head>
-
 - **ECO431 - Industrial Organization**  
- <span style="font-family: 'Montserrat', sans-serif; font-style: italic; color: #555; font-size: 14px;">Semester: 2</span>
- <span style="font-family: 'Montserrat', sans-serif; font-style: italic; font-size: 14px;">Instructor: [Prof. Sandro Brusco](https://snu.edu.in/faculty/sandro-brusco/)</span>
+ <span style="font-family: Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Semester: 2</span>
+ <span style="font-family: Verdana, Arial, sans-serif; font-style: italic; font-size: 14px;">Instructor: [Prof. Sandro Brusco](https://snu.edu.in/faculty/sandro-brusco/)</span>
 
   
 - **ECO302 - Intermediate Macroeconomics**  

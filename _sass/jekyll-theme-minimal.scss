@@ -3,10 +3,10 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:40px;
   font: 24px/1.5 "Century Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -47,7 +47,7 @@ a#name {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 a small {

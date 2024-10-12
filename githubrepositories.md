@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Public Goods
+title: Extras
 ---
 
-# Public Goods: Selected GitHub Repositories
+# Music
 
 Here are some of the projects I’ve worked on that I’d like to showcase. Feel free to explore and contribute!
 

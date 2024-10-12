@@ -2,20 +2,22 @@
 layout: default
 ---
 
-[CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 50px;"></span> [Research Experience](/research_experience.md/) <span style="margin-right: 50px;"></span> [Research Projects](/research_projects.md/) <span style="margin-right: 50px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 50px;"></span> [Extras](/githubrepositories.md/)
+[CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 30px;"></span> [Research Experience](/research_experience.md/) <span style="margin-right: 30px;"></span> [Research Projects](/research_projects.md/) <span style="margin-right: 30px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 30px;"></span> [Extras](/githubrepositories.md/)
 
 
 # About
 
-Hello! I am currently pursuing a master's degree in economics at [Shiv Nadar University](https://snu.edu.in/home/), with a focus on research. My primary interest lies in macroeconomics and economic growth, and I aspire to further my academic journey by pursuing a PhD. I am learning and growing my skills in [Stata](https://www.stata.com) and [MATLAB](https://in.mathworks.com/company.html), frequently working with data and coding. My goal is to contribute to academia and achieve publications in the field. When I am not engaged in academic pursuits, I enjoy clicking pictures, exploring my surroundings, and contemplating the next big economic breakthrough.
+I am currently pursuing a Ph.D. in the Department of Economics at Shiv Nadar University, Delhi NCR, India. I hold an MPhil in economics from Visva-Bharati University. Previously, I worked as a Research Associate in Sambodhi Research & Communications Pvt Ltd. 
+My academic endeavors have cultivated a strong interest in development economics, particularly in understanding the impact of structural inequalities, such as caste discrimination, on economic outcomes.
+If you have similar research interests or would like to collaborate, feel free to connect with me at mustafisourish@gmail.com or  sm138@snu.edu.in
 
 # Research Interests
 
 - Development Economics
-- Health Economics
-- Behavioural Economics
+- Applied Microeconometrics
+- Labor Economics
 
 # Softwares Used:
-Stata | R | Python | MATLAB | Python 
+Stata | R | Python   
 
 ---

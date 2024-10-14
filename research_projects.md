@@ -11,12 +11,28 @@ layout: default
 <b style="color: #000000;">Abstract:</b> Overconfidence and Procrastination, are two vast and distinct areas in the field of Behavioural Economics. This study tries to construct a bridge between both these areas and understand whether an overconfident individual is more likely, less likely or does it have no effect on procrastination of a particular task. Over-confidence among the students has been captured through the Cognitive Reflection Test and self-evaluation methods, followed by observing the identified over-confident students’ behaviour on delaying tasks, hence capturing procrastination among them.
 </p>
 
+## Sambodhi Research & Communications Pvt. Ltd.
 # 2. An Environmental Kuznet’s Curve Analysis for River Economies: A Case Study on Ganga and Yamuna
 **Supervisor:** [Dr. Ram Ranjan](https://snu.edu.in/faculty/ram-ranjan/) | **Co-author:** Manya Pahwa (2024, Shiv Nadar University)
 
 <p style="text-align: justify;">
 <b style="color: #000000;">Abstract:</b> The Environmental Kuznets Curve suggests an inverted U-shaped relationship between the level of pollutants in the environment and the level of income. This study, by employing a panel data set for a total of 8 states, through which Ganga and Yamuna flow, tries to establish EKC relationships for Fecal Coliform, Bio-chemical Oxygen Demand, Nitrates and Nitrites and Conductivity. The data has been collected over the period 2012-2020 (except for the year 2015). This exercise is done separately for each River Economy. The concerned states are Delhi, Himachal Pradesh, Uttarakhand, Haryana, West Bengal, Uttar Pradesh, Bihar and Jharkhand. Clear, inverted U-shaped curves are estimated for all pollutants for Ganga, but for Yamuna, U-shaped curves are observed in most cases except for fecal coliform. The results for Nitrate-Nitrite and Conductivity have been obtained with relative robustness. However, unlike other studies, the results obtained for fecal coliform and biochemical oxygen demand are not robust in this paper.
 </p>
+
+# 2. Situational Analysis Study of Early Childhood Education
+**Client:** Central Square Foundation | **Period:** Feb 2023 - Jun 2023 | **Position held:** Research Associate
+
+<p style="text-align: justify;">
+<b style="color: #000000;">Activities performed:</b> Sambodhi will conduct a situational analysis research to identify the actual service delivery breakdown and the stakeholders’ competence, willingness, and resource allocation patterns that lead to subpar learning in preschool settings.
+</p>
+
+# 2. Development Intelligence Unit
+**Client:** Internal Project by Sambodhi Research & Communications Pvt. Ltd. Endorsed by Ministry of Rural Development, India. | **Period:** Apr 2022 - Aug 2023 | **Position held:** Research Intern
+
+<p style="text-align: justify;">
+<b style="color: #000000;">Activities performed:</b> Developed a District level Index called Rural livability index that tracks quality of life at the district level using secondary data sources like NFHS-5, MA, EoL, MoPR, NCRB, MGNREGS, etc. The index is being endorsed by Ministry of Rural Development and is part of India’s Vision 2047.
+</p>
+
 
 ## Undergraduate Dissertation (B.Sc. Economics (Hons.), XIM University)
 # **3. Title:** Economics of Discrimination: Review of Gary Becker’s work and its application on India

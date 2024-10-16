@@ -48,9 +48,7 @@ responsible for designing methodology, actual data collection, analysis of prima
 
 
 ## Publications
-# 6. Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)
+# 6. [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments)
 **Co-author:** Adrija Joarder (2022)
 
-<p style="text-align: justify;">
-<b style="color: #000000;">Abstract:</b> Will countries still trade if they produce goods with the same characteristics? The primary objective of this article is to understand the concept of gains from trade, at a micro level and take it to a macro level.We have compiled various examples and ap- proached this topic by initially understanding the essence of the Fundamental Theorems of Welfare Economics and finding its deep lying intuition using the Robinson Crusoe Model and the famous Ricardian Model. The aim is to understand whether it will be beneficial for countries to trade under such circumstances or if it is just a myth that trading is advantageous to countries
-</p>
+

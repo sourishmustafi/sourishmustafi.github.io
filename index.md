@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>My Site</title>
-  <meta name="google-site-verification" content="YoXCx-zWXiGD2VA6qcA9UzBd7V4mVzhbm0sieZEf2TQ" />
-</head>
-</html>
-
 
 [CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 20px;"></span> [Research](/research.md/) <span style="margin-right: 20px;"></span> [Conferences & Workshops](/conferences.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/extras.md/)
 

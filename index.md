@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Vita](/assets/CV_Feb2024.pdf) <span style="margin-right: 20px;"></span> [Research](/research_projects.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/githubrepositories.md/)
+[CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 20px;"></span> [Research](/research_projects.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/githubrepositories.md/)
 
 
 # About

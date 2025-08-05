@@ -13,6 +13,8 @@ title: Teaching
 - **ECO113 - Introduction to Probability**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Fall 2024, Fall 2025</span>
 
+- **ECO374 - Behavioural Economics**  
+  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2025</span>
 
 - **ECO431 - Industrial Organization**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2024</span>

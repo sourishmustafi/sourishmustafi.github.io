@@ -16,7 +16,7 @@ layout: default
 #  1. Impact Assessment of Deepshala Project in Amreli, Gujarat;
 **Client:** American India Foundation | **Period:** Sep 2022 - Aug 2023 | **Position held:** Research Associate
 
-<p style="text-align: center;">
+<p style="text-align: justify;">
 <b style="color: #000000;">Abstract:</b> The AIF - Deepshala program will be implemented in Amreli district, Gujarat across six blocks – Lathi, Amreli, Liliya, Savarkundla, Kunkavav, and Bagasara from 2022 to 2026 with programming for Grades 9 and 10 starting in the last two years of the program. The program is designed to provide evidence for policy making with the help of some key partners contributing to various aspects of the programming. The major components of the 86 program schools are as follows:
 - Infrastructure Support - Hardware, Software, and Troubleshooting
 - Centralized Training Program for Teachers and HMs with BRC/CRC Support

@@ -2,20 +2,30 @@
 layout: default
 ---
 
+## Working Papers
+
+#  "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
+
+
+## Publications
+#  [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments)
+**Co-author:** Adrija Joarder (2022)
+
+
 ## Research Projects at Sambodhi Research & Communications Pvt. Ltd.
 
 #  1. Impact Assessment of Deepshala Project in Amreli, Gujarat;
 **Client:** American India Foundation | **Period:** Sep 2022 - Aug 2023 | **Position held:** Research Associate
 
-<p style="text-align: justify;">
+<p style="text-align: center;">
 <b style="color: #000000;">Abstract:</b> The AIF - Deepshala program will be implemented in Amreli district, Gujarat across six blocks – Lathi, Amreli, Liliya, Savarkundla, Kunkavav, and Bagasara from 2022 to 2026 with programming for Grades 9 and 10 starting in the last two years of the program. The program is designed to provide evidence for policy making with the help of some key partners contributing to various aspects of the programming. The major components of the 86 program schools are as follows:
-• Infrastructure Support - Hardware, Software, and Troubleshooting
-• Centralized Training Program for Teachers and HMs with BRC/CRC Support
-• Pedagogical Intervention Through Content and Training
-• STEM Labs for PBL and Practical Application and Science Mela for Sharing
-• Communication and Outreach with All Stakeholders
-• Government Partnership and Engagement for Scale-Up and/or Replication
-• Remediation Activities for the Bottom 20% of Performing Students through Learning Improvement Groups (LIGs)
+- Infrastructure Support - Hardware, Software, and Troubleshooting
+- Centralized Training Program for Teachers and HMs with BRC/CRC Support
+- Pedagogical Intervention Through Content and Training
+- STEM Labs for PBL and Practical Application and Science Mela for Sharing
+- Communication and Outreach with All Stakeholders
+- Government Partnership and Engagement for Scale-Up and/or Replication
+- Remediation Activities for the Bottom 20% of Performing Students through Learning Improvement Groups (LIGs)
 </p>
 
 
@@ -47,8 +57,5 @@ responsible for designing methodology, actual data collection, analysis of prima
 **MPhil Thesis:** Visva-Bharati University | **Supervisor:** [Prof. Sarbajit Sengupta](https://www.visvabharati.ac.in/sarbajitsengupta.html)
 
 
-## Publications
-# 6. [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments)
-**Co-author:** Adrija Joarder (2022)
 
 

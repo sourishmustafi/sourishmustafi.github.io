@@ -11,15 +11,12 @@ title: Teaching
 **Graduate Teaching Assistant** at Shiv Nadar University, India:
 
 - **ECO113 - Introduction to Probability**  
-  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Fall 2024, Fall 2025</span>  
-  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; font-size: 14px;">(Instructor: [Dr. Punarjit Roychowdhury](https://punarjitroyc.weebly.com/))</span> 
+  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Fall 2024, Fall 2025</span>
 
 
 - **ECO431 - Industrial Organization**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2024</span>
- <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; font-size: 14px;">Instructor: [Prof. Sandro Brusco](https://snu.edu.in/faculty/sandro-brusco/)</span>
 
   
 - **ECO302 - Intermediate Macroeconomics**  
-  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2023</span>  
-  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; font-size: 14px;">Instructor: [Dr. Trishita Ray Barman](https://snu.edu.in/faculty/trishita-ray-baraman/)</span> 
+  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2023</span>

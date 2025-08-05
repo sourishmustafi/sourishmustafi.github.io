@@ -5,8 +5,10 @@ title: Teaching
 
 [CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 20px;"></span> [Research](/research.md/) <span style="margin-right: 20px;"></span> [Conferences & Workshops](/conferences.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/extras.md/)
 
-
+<div style="margin-top: 50px; margin-bottom: 30px;">
 ## Teaching Experience
+</div>
+
 
 
 **Graduate Teaching Assistant** at Shiv Nadar University, India:

@@ -288,3 +288,11 @@ header img {
   margin: 1rem auto;      // Optional: center and add spacing
   display: block;
 }
+
+hr.nav-separator {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 1.5rem 0;
+  width: 100%;
+}
+

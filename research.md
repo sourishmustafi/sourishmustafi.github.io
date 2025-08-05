@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[CV](/assets/CV_Feb2024.pdf) <span style="margin-right: 20px;"></span> [Research](/research.md/) <span style="margin-right: 20px;"></span> [Conferences & Workshops](/conferences.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/extras.md/)
+
+
 ## Working Papers
 
 #  1. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)

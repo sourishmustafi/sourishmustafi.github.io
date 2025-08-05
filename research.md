@@ -4,12 +4,11 @@ layout: default
 
 ## Working Papers
 
-#  "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
+#  1. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
 
 
 ## Publications
-#  [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments)
-**Co-author:** Adrija Joarder (2022)
+#  [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments) (with Adrija Joarder), 2022
 
 
 ## Research Projects at Sambodhi Research & Communications Pvt. Ltd.

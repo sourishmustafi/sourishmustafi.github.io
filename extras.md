@@ -15,9 +15,13 @@ title: Extras
 <span style="font-size: 0.85em; font-style: italic;">The Telegraph, June 24, 2025</span>
 
 
-# Music
+# Art & Illustrations
 
-Here are some of the projects I’ve worked on that I’d like to showcase. Feel free to explore and contribute!
+An alter ego who trades keystrokes for brushstrokes.<br>
+Feel free to explore my artwork here:
+<a href="https://www.behance.net/sourishmustafi" target="_blank" rel="noopener noreferrer">📁 Behance Art Portfolio</a>
+
+
 
 <div class="repositories">
     <div class="repository-card">

@@ -13,10 +13,6 @@ title: Extras
 
 — 6th Annual Economics Conference, Ahmedabad University
 
-<span style="font-size: 1.1rem;">
-2025 <strong>Winter School 2024</strong>, Delhi School of Economics
-</span>
-
 
 #  2024
 

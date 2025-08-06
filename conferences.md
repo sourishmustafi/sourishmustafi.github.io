@@ -7,18 +7,23 @@ title: Extras
 
 <hr class="nav-separator">
 
-# Conference
+##  Conference
+
+#  2025
+
+— 6th Annual Economics Conference, Ahmedabad University
 
 <span style="font-size: 1.1rem;">
 2025 <strong>Winter School 2024</strong>, Delhi School of Economics
 </span>
 
 
-<span style="font-size: 1.1rem;">
-2024
-</span>
+#  2024
+
+— International Conference on “Reflections on Development Economics”, Presidency University, Kolkata IN
 
 
+##  Workshop
 
-
-# Workshop
+#  2025
+— 2nd Development Economics Workshop at Durham University, UK

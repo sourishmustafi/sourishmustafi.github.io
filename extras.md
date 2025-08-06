@@ -11,9 +11,8 @@ title: Extras
 
 <a href="https://www.telegraphindia.com/opinion/when-ai-is-anglophone-can-chatgpt-generate-arguments-in-hindi-or-bengali-with-the-same-clarity-prnt/cid/2109430" target="_blank" rel="noopener noreferrer">
   When AI is Anglophone
-</a>
-
-The Telegraph, June 24, 2025
+</a><br>
+<span style="font-size: 0.85em; font-style: italic;">The Telegraph, June 24, 2025</span>
 
 
 # Music

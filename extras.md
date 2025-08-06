@@ -7,6 +7,10 @@ title: Extras
 
 <hr class="nav-separator">
 
+#  Opinion Editorials
+
+[When AI is Anglophone](https://www.telegraphindia.com/opinion/when-ai-is-anglophone-can-chatgpt-generate-arguments-in-hindi-or-bengali-with-the-same-clarity-prnt/cid/2109430)
+
 # Music
 
 Here are some of the projects I’ve worked on that I’d like to showcase. Feel free to explore and contribute!

@@ -9,7 +9,11 @@ title: Extras
 
 #  Opinion Editorials
 
-[When AI is Anglophone](https://www.telegraphindia.com/opinion/when-ai-is-anglophone-can-chatgpt-generate-arguments-in-hindi-or-bengali-with-the-same-clarity-prnt/cid/2109430)
+<a href="https://www.telegraphindia.com/opinion/when-ai-is-anglophone-can-chatgpt-generate-arguments-in-hindi-or-bengali-with-the-same-clarity-prnt/cid/2109430" target="_blank" rel="noopener noreferrer">
+  When AI is Anglophone
+</a>
+The Telegraph, June 24, 2025
+
 
 # Music
 

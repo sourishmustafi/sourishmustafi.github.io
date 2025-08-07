@@ -24,22 +24,22 @@ Feel free to explore my artwork here:
 
 
 <div class="repositories">
-    <div class="repository-card">
+<!--     <div class="repository-card">
         <a href="https://github.com/bishmaybarik/income-pyramids-clean" target="_blank">
             <h3>Cleaned Data - Income Pyramids_dx - CMIE</h3>
             <p>Cleaning the CMIE Income Pyramids datasets by first converting the csv files into .dta files, and then appending the datasets to create a panel dataset. </p>
         </a>
-    </div>
+    </div> -->
 
 <div class="repositories">
-    <div class="repository-card">
+<!--     <div class="repository-card">
         <a href="https://github.com/bishmaybarik/ngram-code" target="_blank">
             <h3>Code for District Matching - Using N-Gram and Jaccard Similarities </h3>
             <p>This is a simple code for matching districts across two datasets (CSV), with associated probability of matching. </p>
         </a>
-    </div>
+    </div> -->
     <!-- Add more repositories as needed -->
-</div>
+</div> 
 
 <style>
     .repositories {

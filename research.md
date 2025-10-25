@@ -8,11 +8,13 @@ layout: default
 
 ## Working Papers
 
-#  1. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
+#  1. ["Guns and Gains: Effects of Exposure to Counterinsurgency Operations during School-age Years"](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2025-67-guns-gains-effects-exposure-counter-insurgency-operations-school-age-years.pdf) (with Bharti Nandwani and Punarjit Roychowdhury)
+
+#  2. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
 
 
 ## Publications
-#  [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology (ISSN No:-2456-2165)](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments) (with Adrija Joarder), 2022
+#  [Work from Home: A Curse or Boon? Analyzing People’s Sentiments, International Journal of Innovative Science and Research Technology ](https://ijisrt.com/work-from-home-a-curse-or-boon-analyzing-peoples-sentiments) (with Adrija Joarder), 2022
 
 
 ## Research Projects at Sambodhi Research & Communications Pvt. Ltd.

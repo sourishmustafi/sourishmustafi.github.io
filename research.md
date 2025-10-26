@@ -8,9 +8,9 @@ layout: default
 
 ## Working Papers
 
-#  1. ["Guns and Gains: Effects of Exposure to Counterinsurgency Operations during School-age Years"](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2025-67-guns-gains-effects-exposure-counter-insurgency-operations-school-age-years.pdf) (with Bharti Nandwani and Punarjit Roychowdhury)
+#  1. ["Guns and Gains: Effects of Exposure to Counterinsurgency Operations during School-age Years"](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2025-67-guns-gains-effects-exposure-counter-insurgency-operations-school-age-years.pdf) (with Dr. Bharti Nandwani and Dr. Punarjit Roychowdhury)
 
-#  2. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Punarjit Roychowdhury)
+#  2. "Caste and Cognitive Heath Among the Middle-Aged and Older Population: Evidence from India" (with Dr. Punarjit Roychowdhury)
 
 
 ## Publications

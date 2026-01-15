@@ -13,7 +13,7 @@ title: Extras
 — XXXVth Annual Conference on Contemporary Issues in Development Economics, Jadavpur Univeristy, Kolkata, IN
 
 #  2025
-- 20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, IN
+— 20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, IN
 — 6th Annual Economics Conference, Ahmedabad University, IN
 
 

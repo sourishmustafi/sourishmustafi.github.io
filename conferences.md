@@ -14,6 +14,7 @@ title: Extras
 
 #  2025
 — 20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, IN
+
 — 6th Annual Economics Conference, Ahmedabad University, IN
 
 
